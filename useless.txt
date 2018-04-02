@@ -1,3 +1,4 @@
+<--random comment-->
 echo "# LearningGit" >> README.md
 git init
 git add README.md
